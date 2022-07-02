@@ -9,7 +9,7 @@
 <a href="https://www.instagram.com/LachlanDev/">![Instagram](https://img.shields.io/badge/LachlanDev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/LachlanDev">![Twitter](https://img.shields.io/badge/LachlanDev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> 
 <a href="https://discord.com/invite/w7B5nKB">![DiscordServer](https://img.shields.io/discord/587842272167723028?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
 
-<a href="https://discord.com/invite/WZv9zh5mZJ">![DiscordServer](https://img.shields.io/discord/587842272167723028?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
+<a href="https://discord.com/invite/WZv9zh5mZJ">![DiscordServer](https://img.shields.io/discord/804461788367683595?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
 </a> ![Discord](https://img.shields.io/badge/AZERTY%239999-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
  
 -------------------
@@ -20,8 +20,8 @@
   
 -------------------
   
-![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=AZERTY442005&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![AZERTY442005 github stats](https://github-readme-stats.vercel.app/api?username=AZERTY442005&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
  
-![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=AZERTY442005&theme=radical&include_all_commits=true&count_private=true)
+![AZERTY442005 github streak](https://github-readme-streak-stats.herokuapp.com/?user=AZERTY442005&theme=radical&include_all_commits=true&count_private=true)
  
  <div>
