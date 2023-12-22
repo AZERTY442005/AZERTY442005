@@ -2,7 +2,7 @@
   
 ## About
 👋 Hey I’m @AZERTY442005, a Passionate Developer into Discord Bots and other things. I already created some Repositories to help Users. 
- You can reach me by E-mail: 📫 developer.enoal.fauchille@gmail.com
+ You can reach me by E-mail: 📫 azerty442005.dev@gmail.com
  
 -------------------
  
