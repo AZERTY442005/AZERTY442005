@@ -11,7 +11,7 @@
 <a href="https://www.instagram.com/LachlanDev/">![Instagram](https://img.shields.io/badge/LachlanDev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/LachlanDev">![Twitter](https://img.shields.io/badge/LachlanDev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> 
 -->
 <a href="https://discord.com/invite/AfwMAQMwKj">![DiscordServer](https://img.shields.io/discord/804461788367683595?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
-</a> ![Discord](https://img.shields.io/badge/AZERTY%239999-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+</a> ![Discord](https://img.shields.io/badge/@AZERTY442005-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
  
 -------------------
  
